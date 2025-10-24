@@ -8,7 +8,7 @@ ML coding module may or may not exist in particular companies interviews. The go
   
 - K-means clustering ([code](./notebooks/k_means.ipynb)) :white_check_mark:
 
-- K-nearest neighbors ([code 1](./notebooks/knn.ipynb) - [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/k_nearest_neighbor.py)) :white_check_mark:
+- K-nearest neighbors ([code 1](./notebooks/knn.ipynb) - [code 2](https://github.com/AriaZiyanYang/Machine-Learning-Interviews/blob/main/src/MLC/notebooks/k_nearest_neighbors.ipynb)) :white_check_mark:
   
 - Decision trees ([code](./notebooks/decision_tree.ipynb)) :white_check_mark:
   <!-- (https://github.com/random-forests/tutorials/blob/master/decision_tree.py) -->
@@ -19,8 +19,8 @@ ML coding module may or may not exist in particular companies interviews. The go
 * Neural networks 
   - Perceptron ([code](./notebooks/perceptron.ipynb)) 
   - FeedForward NN ([code](./notebooks/feedforward.ipynb))
-  <!-- [code 1](https://github.com/alirezadir/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
-  <!-- [code 2](https://github.com/MahanFathi/CS231/blob/master/assignment1/cs231n/classifiers/neural_net.py)) -->
+  <!-- [code 1](https://github.com/AriaZiyanYang/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
+  <!-- [code 2](https://github.com/AriaZiyanYang/Machine-Learning-Interviews/blob/main/src/MLC/notebooks/feedforward.ipynb)) -->
   - Softmax ([code](./notebooks/softmax.ipynb))
   - Convolution ([code](./notebooks/convolution.ipynb))
   - CNN 

@@ -6,7 +6,7 @@
 | 2. [ML System Design Sample Questions](#2-ml-system-design-sample-questions) |
 |3. [ML System Design Topics](#3-ml-system-design-topics)|
 |4. [ML at big tech companies](#4-ml-at-big-tech-companies)|
-| 5.  [Agentic AI System Design (2025)](https://github.com/alirezadir/Agentic-AI-Systems.git)|
+| 5.  [Agentic AI System Design (2025)](https://github.com/AriaZiyanYang/Agentic-AI-Systems.git)|
 ||
 
 ### Designing ML systems for production
@@ -488,6 +488,6 @@ Once you learn about the basics, I highly recommend checking out different compa
 
 - For more insight on different components above you can check out the following resources):
   - [Full Stack Deep Learning course](https://fall2019.fullstackdeeplearning.com/)
-  - [Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
+  - [Production Level Deep Learning](https://github.com/AriaZiyanYang/Production-Level-Deep-Learning)
   - [Machine Learning Systems Design](https://github.com/chiphuyen/machine-learning-systems-design)
   - [Stanford course on ML system design](https://online.stanford.edu/courses/cs329s-machine-learning-systems-design)
