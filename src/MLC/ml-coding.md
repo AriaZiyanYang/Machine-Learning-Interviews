@@ -21,7 +21,9 @@ ML coding module may or may not exist in particular companies interviews. The go
   - FeedForward NN ([code](./notebooks/feedforward.ipynb))
   <!-- [code 1](https://github.com/AriaZiyanYang/deep-learning/blob/master/first-neural-network/my_answers.py),  -->
   <!-- [code 2](https://github.com/AriaZiyanYang/Machine-Learning-Interviews/blob/main/src/MLC/notebooks/feedforward.ipynb)) -->
-  - Softmax ([code](./notebooks/softmax.ipynb))
+  - Softmax & Sigmoid ([code](./notebooks/sigmoid&softmax.ipynb))
+  - Self-Attention ([code](./notebooks/self_attention.ipynb))
+  - Multi-Head Attention ([code](./notebooks/multihead-attention.ipynb))
   - Convolution ([code](./notebooks/convolution.ipynb))
   - CNN 
   - RNN 
