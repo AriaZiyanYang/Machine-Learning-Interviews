@@ -13,6 +13,7 @@ ML coding module may or may not exist in particular companies interviews. The go
 - K-means clustering ([code](./notebooks/k_means.ipynb)) :white_check_mark:
 
 - K-nearest neighbors ([code](./notebooks/knn.ipynb)) :white_check_mark:
+  - Simple version ([code](./notebooks/knn-simple.ipynb)) :white_check_mark:
   
 - Decision trees ([code](./notebooks/decision_tree.ipynb)) :white_check_mark:
   <!-- (https://github.com/random-forests/tutorials/blob/master/decision_tree.py) -->
